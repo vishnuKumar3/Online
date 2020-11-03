@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:padding="10sp"
+    android:scrollbarSize="5sp"
+
+    tools:context=".Appdesigning">
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_design"
+        android:textSize="25sp"
+        android:layout_marginLeft="140dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="110dp"
+        android:textSize="15sp"
+        android:text="@string/codelab_des"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/codelabs"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="70dp"
+        android:textSize="23sp"
+        android:textColor="#FF0000"/>
+    <Button
+        android:id="@+id/codelabbutton"
+        android:layout_marginLeft="28dp"
+        android:layout_marginTop="200dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/link"
+        android:textSize="15sp"
+        android:fontFamily="serif-monospace"
+        android:textColor="#000000" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="340dp"
+        android:textSize="15sp"
+        android:text="@string/developer_des"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/android_developer"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="290dp"
+        android:textSize="23sp"
+        android:textColor="#FF0000"/>
+    <Button
+        android:id="@+id/developerbutton"
+        android:layout_marginLeft="28dp"
+        android:layout_marginTop="440dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/link"
+        android:textSize="15sp"
+        android:fontFamily="serif-monospace"
+        android:textColor="#000000" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="580dp"
+        android:textSize="15sp"
+        android:text="@string/servlet_des"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/core_servlets"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="530dp"
+        android:textSize="23sp"
+        android:textColor="#FF0000"/>
+    <Button
+        android:id="@+id/corebutton"
+        android:layout_marginLeft="28dp"
+        android:layout_marginTop="710dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/link"
+        android:textSize="15sp"
+        android:fontFamily="serif-monospace"
+        android:textColor="#000000" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="850dp"
+        android:textSize="15sp"
+        android:text="@string/vogella_des"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/vogella"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="800dp"
+        android:textSize="23sp"
+        android:textColor="#FF0000"/>
+    <Button
+        android:id="@+id/vogellabutton"
+        android:layout_marginLeft="28dp"
+        android:layout_marginTop="970dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/link"
+        android:textSize="15sp"
+        android:fontFamily="serif-monospace"
+        android:textColor="#000000" />
+
+</FrameLayout>
+</ScrollView>

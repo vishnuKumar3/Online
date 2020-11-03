@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Online</string>
+    <string name="single_click_link_open">Single Click Link Open</string>
+    <string name="search_engines">Search Engines</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google">Google</string>
+    <string name="open">Navigation drawer open</string>
+    <string name="close">Navigation drawer close</string>
+    <string name="home">Home</string>
+    <string name="link">Link-></string>
+    <string name="web_designing">Web Designing</string>
+    <string name="app_design">App Design</string>
+    <string name="w3_schools">W3 Schools</string>
+    <string name="codelabs">Codelabs</string>
+    <string name="SEARCH">SEARCH ENGINES</string>
+    <string name="web_design">WEB DESIGN</string>
+    <string name="app_design1">APP DESIGN</string>
+    <string name="google_des">"              "Google is most used search engine in the world\nIt holds most part of the search engine market
+    It was founded by Larry page and Sergey Brin.Current CEO of Google and its parent company Alphabet is Sundar Pichai</string>
+    <string name="w3_des">"              "W3 schools is one of the best web tutorial site.It has the documentation and sample
+    output in a user convenient manner.It has tutorials like HTML,CSS,JAVASCRIPT,PHP,MYSQL etc</string>
+    <string name="codelab_des">"              "Codelabs is the best website to teach you the android app basic to advanced.
+    It has the tutorial in the form of sample output.It also provides code to the exampler app design.</string>
+	<string name="bing_des">"              "Bing is a web search engine owned and operated by Microsoft.It was launched on June 3 2009.Bing provides a variety of search services, including web, video, image and map search products.</string>
+	<string name="duck_des">"              "Duck Duck go is a type of web search engine.It was created by Gabriel Weinberg.It was launched on september 25,2008. DuckDuckGo distinguishes itself from other search engines by not profiling its users and by showing all users the same search results for a given search term</string>
+	<string name="yahoo_des">"              "Yahoo is an American web services provider headquartered in Sunnyvale, California, and owned by Verizon Media.It provides or provided a Web portal, search engine Yahoo! Search, and related services.It was launched on January 1994.</string>
+	<string name="javatpoint_web_des">"              "Javatpoint is the best portal to learn technologies.avaTpoint is the Best Training Institute for Java, Php, Android, Hadoop, Oracle Taining in Noida and Delhi NCR. Javatpoint trainers provides highly customized and result oriented training in Core Java, Advance Java, Struts 2.x, Spring, Hibernate, Web Services etc. </string>
+	<string name="javatpoint_app_des">"              "Javatpoint is the best portal to learn technologies.avaTpoint is the Best Training Institute for Java, Php, Android, Hadoop, Oracle Taining in Noida and Delhi NCR. Javatpoint trainers provides highly customized and result oriented training in Core Java, Advance Java, Struts 2.x, Spring, Hibernate, Web Services etc. </string>
+	<string name="coursera_des">"              "Coursera provides you the video tutotials.It has the beginer,intermediate,mixed and advanced level tutorials.It provides you the free web tutorials.</string>
+	<string name="htmldog_res">"              "HTML Dog is a site that helps new writers write good, simple HTML and make it look good with CSS.It was created by World Wide Web Consortium.The World Wide Web Consortium (W3C) is an organization created by Sir Tim Berners-Lee, in order to continue the development of the web, and its languages.</string>
+	<string name="developer_des">"              "Android Developer is the official website from Google for Android development. It provides tutorials for each and everything from scratch. It even provides the documentation of each topic. </string>
+	<string name="vogella_des">"              "provides you the android video tutorials from the beginning to the advanced topics. Each topic is well explained with examples and code snippets. It explains from the beginning of installing the IDE to testing your developed android app. </string>
+	<string name="servlet_des">"              "Core Servlet website provides you the various sections on Android tutorials. Each section has exercises and each exercise has examples and solutions to each of them. As mentioned on the website, this is called the self-paced android training course. </string>
+    <string name="bing1">Bing</string>
+    <string name="yahoo1">Yahoo</string>
+    <string name="duck_duck_go">Duck Duck Go</string>
+    <string name="javatpoint">JavaTpoint</string>
+    <string name="html_dog">HTML Dog</string>
+    <string name="coursera">Coursera</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="core_servlets">Core Servlets</string>
+    <string name="vogella">Vogella</string>
+    <string name="contact">For any queries contact me through this button</string>
+    <string name="call">Call</string>
+
+</resources>

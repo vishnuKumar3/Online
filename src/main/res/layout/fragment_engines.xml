@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10sp"
+    android:scrollbarSize="5sp"
+
+    tools:context=".engines">
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/SEARCH"
+        android:textSize="25sp"
+        android:layout_marginLeft="100dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="110dp"
+        android:textSize="15sp"
+        android:text="@string/google_des"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/google"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="70dp"
+        android:textSize="23sp"
+        android:textColor="#FF0000"/>
+    <Button
+        android:id="@+id/googlebutton"
+        android:layout_marginLeft="28dp"
+        android:layout_marginTop="200dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/link"
+        android:fontFamily="serif-monospace"
+        android:textColor="#000000" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="340dp"
+        android:textSize="15sp"
+        android:text="@string/bing_des"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/bing1"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="290dp"
+        android:textSize="23sp"
+        android:textColor="#FF0000"/>
+    <Button
+        android:id="@+id/bingbutton"
+        android:layout_marginLeft="28dp"
+        android:layout_marginTop="440dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/link"
+        android:fontFamily="serif-monospace"
+        android:textColor="#000000" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="580dp"
+        android:textSize="15sp"
+        android:text="@string/yahoo_des"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/yahoo1"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="530dp"
+        android:textSize="23sp"
+        android:textColor="#FF0000"/>
+    <Button
+        android:id="@+id/yahoobutton"
+        android:layout_marginLeft="28dp"
+        android:layout_marginTop="680dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/link"
+        android:fontFamily="serif-monospace"
+        android:textColor="#000000" />
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="820dp"
+        android:textSize="15sp"
+        android:text="@string/duck_des"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/duck_duck_go"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="770dp"
+        android:textSize="23sp"
+        android:textColor="#FF0000"/>
+    <Button
+        android:id="@+id/duckbutton"
+        android:layout_marginLeft="28dp"
+        android:layout_marginTop="930dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/link"
+        android:fontFamily="serif-monospace"
+        android:textColor="#000000" />
+
+
+</FrameLayout>
+</ScrollView>

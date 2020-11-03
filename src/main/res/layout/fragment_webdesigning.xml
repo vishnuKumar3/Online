@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:padding="10sp"
+    android:scrollbarSize="5sp"
+
+    tools:context=".Webdesigning">
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/web_design"
+        android:textSize="25sp"
+        android:layout_marginLeft="140dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="110dp"
+        android:textSize="15sp"
+        android:text="@string/w3_des"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/w3_schools"
+        android:layout_marginTop="70dp"
+        android:layout_marginLeft="30dp"
+        android:textSize="23sp"
+
+        android:textColor="#FF0000"/>
+    <Button
+        android:id="@+id/w3button"
+        android:layout_marginLeft="28dp"
+        android:layout_marginTop="200dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/link"
+        android:fontFamily="serif-monospace"
+        android:textColor="#000000" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="340dp"
+        android:textSize="15sp"
+        android:text="@string/javatpoint_web_des"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="290dp"
+        android:text="@string/javatpoint"
+        android:textColor="#FF0000"
+
+        android:textSize="23sp" />
+
+    <Button
+        android:id="@+id/javatwebbutton"
+        android:layout_marginLeft="28dp"
+        android:layout_marginTop="480dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/link"
+        android:fontFamily="serif-monospace"
+        android:textColor="#000000" />
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="620dp"
+        android:textSize="15sp"
+        android:text="@string/htmldog_res"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/html_dog"
+        android:layout_marginTop="570dp"
+        android:layout_marginLeft="30dp"
+        android:textSize="23sp"
+
+        android:textColor="#FF0000"/>
+    <Button
+        android:id="@+id/htmldogbutton"
+        android:layout_marginLeft="28dp"
+        android:layout_marginTop="770dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/link"
+        android:fontFamily="serif-monospace"
+        android:textColor="#000000" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="920dp"
+        android:textSize="15sp"
+        android:text="@string/coursera_des"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/coursera"
+        android:layout_marginTop="870dp"
+        android:layout_marginLeft="30dp"
+        android:textSize="23sp"
+
+        android:textColor="#FF0000"/>
+    <Button
+        android:id="@+id/courserabutton"
+        android:layout_marginLeft="28dp"
+        android:layout_marginTop="1000dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/link"
+        android:fontFamily="serif-monospace"
+        android:textColor="#000000" />
+
+
+
+</FrameLayout>
+</ScrollView>

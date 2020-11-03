@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+<group android:checkableBehavior="single">
+<item
+    android:id="@+id/home"
+    android:title="@string/home"
+    android:icon="@drawable/ic_baseline_home_24"
+    android:visible="true"/>
+<item
+    android:id="@+id/searchengine"
+    android:title="@string/search_engines"
+    android:icon="@drawable/ic_baseline_location_searching_24"
+    android:visible="true"/>
+</group>
+<item android:title="Tutorials">
+    <menu>
+        <item
+            android:id="@+id/webdesign"
+            android:title="@string/web_designing"
+            android:visible="true"
+            android:icon="@drawable/ic_baseline_web_24"
+            />
+        <item
+            android:id="@+id/appdesign"
+            android:title="@string/app_design"
+            android:visible="true"
+            android:icon="@drawable/ic_baseline_android_24"
+            />
+
+    </menu>
+</item>
+
+
+
+</menu>
